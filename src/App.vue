@@ -1,14 +1,19 @@
 <template>
-  <Home data="dhoni is fast" msg="samar is boka" />
+  <div style="width: 100vw;height: 100vh; padding: 20px; font-size: 60px;">
+    <office />
+
+  </div>
 </template>
 
 
 <script>
-import Home from './components/Home.vue';
+
+import office from './components/office.vue'
 
 export default {
   components: {
-    Home
+    office
+
   }
 }
 </script>
