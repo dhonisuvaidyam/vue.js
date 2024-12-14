@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="dhoni">
         <h1 v-html="sama"></h1>
         <h1>{{ 5 * 4 }}</h1>
@@ -38,4 +38,4 @@ export default {
     height: 200px;
     margin: 20px;
 }
-</style>
+</style> -->

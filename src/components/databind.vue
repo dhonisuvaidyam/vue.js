@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div>
         <h1 style="white-space: pre-line;">{{ message }}</h1>
         <textarea type="text" v-model="message" />
@@ -14,4 +14,4 @@ export default {
         }
     }
 }
-</script>
+</script> -->

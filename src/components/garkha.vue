@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="dhoni">
         <h1 v-bind:class="{ bittu: show, }">Samar</h1>
         <h2 v-bind:style="{ color: 'blue' }">composing with components</h2>
@@ -28,4 +28,4 @@ export default {
     color: red;
     background-color: aqua;
 }
-</style>
+</style> -->

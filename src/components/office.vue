@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="samar">
         <h1>Office</h1>
         <h2></h2>
@@ -32,4 +32,4 @@ export default {
     width: 100%;
     height: 100%;
 }
-</style>
+</style> -->
